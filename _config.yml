@@ -1,3 +1,11 @@
+
+gems:
+- jekyll-sitemap
+keep_files:
+- assets
+rsync_copy:
+- _assets
+
 # Site settings
 title: Sample Site
 permalink: pretty
